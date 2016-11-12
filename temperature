@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>WP-HW3·Å«×Âà´«</title>
+			<script language="javascript">
+				alert("Please enter the temperature C:")
+				var a = prompt()
+				a = (9/5)*a+32
+				alert("Your temperature F is "+ a)
+			</script>
+	</head>
+	<body>
+	</body>
+</html>
